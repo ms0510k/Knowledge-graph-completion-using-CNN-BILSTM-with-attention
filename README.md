@@ -1,5 +1,5 @@
 # Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism
-This is an implementation of Knowledge graph completion using CNN-BiLSTM with attention Model.
+This is an implementation of Knowledge graph completion using CNN-BiLSTM with attention Model.    
 If you have any questions or comments, please fell free to contact us by email [alsgh9963@navr.com].
 
 # Data description
