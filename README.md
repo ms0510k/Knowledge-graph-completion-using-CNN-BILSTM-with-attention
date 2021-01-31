@@ -65,13 +65,5 @@ useage: [--dataset] - Dataset 이름 (NELL-995, FB15K-237, Countries, Kinship)
   
 # Citation
 ```
-    @article{jagvaral2020path,
-      title={Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism},
-      author={Jagvaral, Batselem and Lee, Wan-Kon and Roh, Jae-Seung and Kim, Min-Sung and Park, Young-Tack},
-      journal={Expert Systems with Applications},
-      volume={142},
-      pages={112960},
-      year={2020},
-      publisher={Elsevier}
-    }
+본 연구는 2020년도 정부(과학기술정보통신부)의 재원으로 정보통신기술진흥센터의 지원을 받아 수행된 연구임 (No.2019000067,대용량 지식그래프 자동완성을 위한 시맨틱 분석 추론기술 개발)
 ```
